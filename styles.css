@@ -1,11 +1,15 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
+=======
+>>>>>>> c53cb7a13394a8a1ce96f8f57bf89230e5a7663b
 h1{
     color:red;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 12pt;
     
 }
+<<<<<<< HEAD
 body{
     color:black;
     
@@ -17,3 +21,9 @@ head{
     fill-opacity: calc(30%);
 }
 >>>>>>> Stashed changes
+=======
+head{
+    color:skyblue
+    
+}
+>>>>>>> c53cb7a13394a8a1ce96f8f57bf89230e5a7663b
