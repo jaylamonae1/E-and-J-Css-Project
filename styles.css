@@ -1,0 +1,19 @@
+<<<<<<< Updated upstream
+=======
+h1{
+    color:red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 12pt;
+    
+}
+body{
+    color:black;
+    
+}
+
+head{
+    color:aquamarine;
+    fill:aquamarine;
+    fill-opacity: calc(30%);
+}
+>>>>>>> Stashed changes
